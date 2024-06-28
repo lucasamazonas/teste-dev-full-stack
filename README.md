@@ -2,7 +2,7 @@
 
 ## Instruções
 
-Você tem até o dia 27/06/2024 para completar o teste. Complete as tarefas listadas abaixo.
+Você tem até o dia 05/07/2024 para completar o teste. Complete as tarefas listadas abaixo.
 
 ### Tecnologias
 
