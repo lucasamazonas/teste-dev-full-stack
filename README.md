@@ -32,7 +32,7 @@ Você tem até o dia 16/12/2024 para completar o teste. Complete as tarefas list
    - Retorne respostas JSON adequadas para cada operação CRUD indicando sucesso ou falha.
 
 ### Entrega
-- Envie o projeto até o dia 16/12/2024.
+- O prazo de entrega é de uma semana após o recebimento.
 - A entrega deve ser feita através de um repositório público no GitHub.
 - Certifique-se de incluir um README.md com instruções claras sobre como configurar e executar o projeto.
 
